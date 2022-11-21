@@ -1,0 +1,5 @@
+name: HCF
+version: ${git.commit.id.abbrev}
+authors: [Alpha Development Team]
+main: rip.alpha.hcf.HCF
+depend: [Libraries, Permissions, LunarClient-API, ModSuite, Basic]

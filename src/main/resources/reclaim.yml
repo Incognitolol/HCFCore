@@ -1,0 +1,14 @@
+vip:
+  - lives add %s 1
+vip+:
+  - lives add %s 1
+pro:
+  - lives add %s 2
+pro+:
+  - lives add %s 2
+mvp:
+  - lives add %s 3
+mvp+:
+  - lives add %s 3
+hof:
+  - lives add %s 4
